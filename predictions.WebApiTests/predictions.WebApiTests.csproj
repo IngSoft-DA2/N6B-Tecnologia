@@ -20,4 +20,8 @@
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\predictions.WebApi\predictions.WebApi.csproj" />
+  </ItemGroup>
+
 </Project>
